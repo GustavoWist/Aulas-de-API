@@ -1,4 +1,4 @@
-estudantes = ['Gustavo','Beatriz', 'Giane', 'Wusleid', 'Mafalda']
+estudantes = ['Gustavo','Ulquiorra', 'Aizen', 'Yhwach', 'Misa']
 matematica = [7.0,7.0,7.0,7.0,7.0]
 portugues = [8.0,8.0,8.0,8.0,8.0]
 historia = [9.0,9.0,9.0,9.0,9.0]
